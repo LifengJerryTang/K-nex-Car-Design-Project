@@ -1,0 +1,2 @@
+# K-nex-Car-Design-Project
+During my second semester at Mercer University School of Engineering, I took a class called Introduction to Engineering Design. The course covered technical writing, technical communication, and basic engineering design principles. One of our projects was designing a K'nex Car with the maximum possible speed. At the end, we had to compete with other teams on a hill climber competition, and the K'nex Car that climbed up the hill fastest was rewarded.
